@@ -11,3 +11,5 @@ meu nome é miguel schweigert
   miguel.schweigert@escola.pr.gov.br
 
   @Miguelschweigert
+
+![](https://tenor.com/pt-BR/view/bluezao-gif-27663463)
