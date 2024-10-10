@@ -12,5 +12,6 @@ meu nome é miguel schweigert
 
   @Miguelschweigert
 
-![](https://tenor.com/pt-BR/view/3d-monkey-monkey-eating-eating-banana-eating-monkey-gif-20960148)
+![](https://s2-g1.glbimg.com/l7fUkvdovxaODjM-7_LKacF-pU4=/0x0:1700x1065/1008x0/smart/filters:strip_icc()/s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/photos/apis/b03aa813eaaa4e059f069c843d77415a/selfie.jpg)
+
 
